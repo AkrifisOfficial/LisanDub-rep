@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "Клеватесс",
-    "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/10953618/46fa4ce3-dcac-4446-8957-a9a40418d6da/x1000",
-    "episodes": 6,
+    "title": "Ван Пис",
+    "image": "https://example.com/images/one-piece.jpg",
+    "episodes": 1050,
     "category": "new",
     "description": "Монки Д. Луффи и его команда пиратов отправляются на поиски величайшего сокровища Ван Пис, чтобы стать новым Королём Пиратов.",
     "kodikLinks": [
       {
-        "playerUrl": "https://kodik.online/episode/1504567/J1xyvn9990a890"
-        "title": "тест",
+        "playerUrl": "https://kodik.info/seria/654321/9876543211/720p",
+        "title": "Начало приключения",
         "duration": "24 мин"
       },
       {
@@ -40,3 +40,4 @@
     ]
   }
 ]
+  
