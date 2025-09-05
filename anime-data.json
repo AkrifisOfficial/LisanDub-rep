@@ -1,14 +1,22 @@
 [
   {
     "id": 1,
-    "title": "Первородный грех Такопи",
-    "image": "https://shikimori.one/uploads/poster/animes/60489/5d1461c507ab9a29f1d37b952793a459.jpeg",
+    "title": "Клеватесс",
+    "image": "https://avatars.mds.yandex.net/get-kinopoisk-image/10953618/46fa4ce3-dcac-4446-8957-a9a40418d6da/x1000",
     "episodes": 6,
     "category": "new",
     "description": "Монки Д. Луффи и его команда пиратов отправляются на поиски величайшего сокровища Ван Пис, чтобы стать новым Королём Пиратов.",
-    "vkVideoLinks": [
-      "https://vk.com/video_ext.php?oid=-123456789&id=123456789&hash=abc123def",
-      "https://vk.com/video_ext.php?oid=-123456789&id=123456790&hash=abc124def"
+    "kodikLinks": [
+      {
+        "playerUrl": "https://kodik.online/episode/1482801/J1xyvn267a24b8",
+        "title": "Начало приключения",
+        "duration": "24 мин"
+      },
+      {
+        "playerUrl": "https://kodik.info/seria/123456/1234567891/720p",
+        "title": "Встреча с Зоро",
+        "duration": "24 мин"
+      }
     ]
   },
   {
@@ -18,9 +26,17 @@
     "episodes": 720,
     "category": "popular",
     "description": "Наруто Узумаки - молодой ниндзя, который мечтает стать Хокаге, лидером своей деревни.",
-    "vkVideoLinks": [
-      "https://vk.com/video_ext.php?oid=-123456789&id=123456792&hash=abc126def",
-      "https://vk.com/video_ext.php?oid=-123456789&id=123456793&hash=abc127def"
+    "kodikLinks": [
+      {
+        "playerUrl": "https://kodik.info/seria/654321/9876543210/720p",
+        "title": "Появление Наруто",
+        "duration": "23 мин"
+      },
+      {
+        "playerUrl": "https://kodik.info/seria/654321/9876543211/720p",
+        "title": "Команда 7",
+        "duration": "23 мин"
+      }
     ]
   }
 ]
