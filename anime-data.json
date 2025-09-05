@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Ван Пис",
+    "image": "https://example.com/images/one-piece.jpg",
+    "episodes": 1050,
+    "category": "new",
+    "description": "Монки Д. Луффи и его команда пиратов отправляются на поиски величайшего сокровища Ван Пис, чтобы стать новым Королём Пиратов.",
+    "vkVideoLinks": [
+      "https://vk.com/video_ext.php?oid=-123456789&id=123456789&hash=abc123def",
+      "https://vk.com/video_ext.php?oid=-123456789&id=123456790&hash=abc124def"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Наруто",
+    "image": "https://example.com/images/naruto.jpg",
+    "episodes": 720,
+    "category": "popular",
+    "description": "Наруто Узумаки - молодой ниндзя, который мечтает стать Хокаге, лидером своей деревни.",
+    "vkVideoLinks": [
+      "https://vk.com/video_ext.php?oid=-123456789&id=123456792&hash=abc126def",
+      "https://vk.com/video_ext.php?oid=-123456789&id=123456793&hash=abc127def"
+    ]
+  }
+]
