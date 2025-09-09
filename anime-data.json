@@ -1,25 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Ð¢ÐµÑÑ 2",
+    "title": "ÃÂ¢ÃÂµÃÂÃÂ 2",
     "image": "https://shikimori.one/uploads/poster/animes/53065/3f2a736b3aa5edf34fa93ff7e6d468c1.jpeg",
     "episodes": 5,
     "category": "new",
-    "description": "Ð¢ÐµÑÑ",
+    "description": "ÃÂ¢ÃÂµÃÂÃÂ",
     "kodikLinks": [
       {
         "playerUrl": "//aniqit.com/serial/69793/983d4a93fe87e290ca5312473af2348f/720p",
         "title": "Test",
-        "duration": "24 Ð¼Ð¸Ð½"
+        "duration": "24 ÃÂ¼ÃÂ¸ÃÂ½"
       },
       {
         "playerUrl": "//aniqit.com/serial/69790/3ed62ade3e3f84daf922bd5a6f58422e/720p",
-        "title": "Ð¡ÐµÑÐ¸Ñ 2",
-        "duration": "25 Ð¼Ð¸Ð½"
+        "title": "ÃÂ¡ÃÂµÃÂÃÂ¸ÃÂ 2",
+        "duration": "25 ÃÂ¼ÃÂ¸ÃÂ½"
       },
       {
         "playerUrl": "//aniqit.com/seria/1506253/efcaf8604168a142d6b3aadd2d862d24/720p",
-        "title": "Серия 3",
+        "title": "Ð¡ÐµÑÐ¸Ñ 3",
+        "duration": "Ð½ÐµÐ¸Ð·Ð²ÐµÑÑÐ½Ð¾"
+      },
+      {
+        "playerUrl": "//aniqit.com/seria/1506161/b21f4a2cc99b843969f7122fdeec2486/720p",
+        "title": "Серия 4",
         "duration": "неизвестно"
       }
     ]
