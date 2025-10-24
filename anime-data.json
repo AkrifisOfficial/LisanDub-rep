@@ -44,8 +44,14 @@
     "title": "Тест ал",
     "description": "Тест",
     "category": "popular",
-    "episodes": 25,
+    "episodes": 1,
     "image": "https://shikimori.one/uploads/poster/animes/61930/dfffc4a797c07d8cfb4e073946c17eb3.jpeg",
-    "kodikLinks": []
+    "kodikLinks": [
+      {
+        "title": "Тест",
+        "duration": "24 мин",
+        "playerUrl": "https://kodikdb.com/uv/723044/70f2cc64b32bf3cfe844/720p"
+      }
+    ]
   }
 ]
